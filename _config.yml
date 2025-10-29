@@ -3,7 +3,7 @@
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
+# `jekyll serve -l -H localhost`. If you change this file, please restart the
 # server process.
 
 # Basic Site Settings
@@ -25,17 +25,17 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Axelle Drouard"
-  pronouns         : # example: "she/her"  
+  pronouns         : # example: "she/her"
   bio              : "PhD student in Applied Mathematics"
   location         : "Bruyères-le-Châtel"
   employer         : "Université Paris Saclay"
   uri              : # URL
-  email            : "axelle.drouard@orange.fr" 
+  email            : "axelle.drouard@orange.fr"
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : https://scholar.google.com/citations?user=uGoZlC4AAAAJ&hl=fr
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0009-3003-2373"
@@ -49,8 +49,8 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "axelledrouard"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  kaggle           : # Username
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
   # Social media
   artstation       : # Username
@@ -84,7 +84,7 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles'
   conferences:
     title: 'Conference Papers'
 
