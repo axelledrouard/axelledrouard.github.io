@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Short CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,34 @@ redirect_from:
 
 {% include base_path %}
 
+Download full resume: [English version](https://axelledrouard.github.io/files/cv_english.pdf) \| [French version](https://axelledrouard.github.io/files/cv_french.pdf)
+
+Born in Saint-Nazaire (France) on October the 25th 1998.
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 2022 - Today: Ph.D in Applied Mathematics, LiHPC, CEA, Paris-Saclay University -- **Kinetic methods for hyperbolic problems on ustructured meshes**
+* 2020 - 2022: Master's degree in Applied Mathematics, Nantes University
+* 2017 - 2020: Bachelor's degree in Mathematics, Nantes University
 
-Work experience
+Internship
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* April 2022 - September 2022: **Study of a finite volume scheme with nodal fluxes for parabolic problems on unstructured meshes**, CEA. Supervisors:
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
