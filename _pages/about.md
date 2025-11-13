@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Applied Mathematics at [CEA](https://www.cea.fr/) and [LiHPC](https://www-lihpc.cea.fr/fr/) (Paris-Saclay University) in Bruyères-le-Châtel, under the supervision of [Rémi Abgrall](https://www.math.uzh.ch/en/people?key1=8882) (Zürich University), [Stéphane Del Pino](https://www-lihpc.cea.fr/fr/team/permanents/del-pino.html) (CEA) and [Emmanuel Labourasse](https://www-lihpc.cea.fr/fr/team/permanents/labourasse.html) (CEA). I am currently working on kinetic methods for hyperbolic problems on unstructured meshes, in Eulerian and Lagrangian cordinates.
+I am a doctor in Applied Mathematics currently working at Centre Borelli, ENS Paris Saclay with CEA partnership.  I am currently working on kinetic methods for hyperbolic problems on unstructured meshes, in Eulerian and Lagrangian cordinates. I did my PhD on the same subject at [CEA](https://www.cea.fr/) and [LiHPC](https://www-lihpc.cea.fr/fr/) (Paris-Saclay University) in Bruyères-le-Châtel, under the supervision of [Rémi Abgrall](https://www.math.uzh.ch/en/people?key1=8882) (Zürich University), [Stéphane Del Pino](https://www-lihpc.cea.fr/fr/team/permanents/del-pino.html) (CEA) and [Emmanuel Labourasse](https://www-lihpc.cea.fr/fr/team/permanents/labourasse.html) (CEA).
 
 E-mail: axelle.drouard@orange.fr
 
