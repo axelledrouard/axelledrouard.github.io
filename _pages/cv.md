@@ -13,9 +13,13 @@ Download full resume: [English version](https://axelledrouard.github.io/files/cv
 
 Born in Saint-Nazaire (France) on October the 25th 1998.
 
+Work experience
+======
+* November 2025 - Today: Post-doctoral researcher at Centre Borell, ENS Paris-Saclay / CEA
+
 Education
 ======
-* 2022 - Today: Ph.D in Applied Mathematics, LiHPC, CEA, Paris-Saclay University -- **Kinetic methods for hyperbolic problems on ustructured meshes**
+* 2022 - 2025: Ph.D in Applied Mathematics, LiHPC, CEA, Paris-Saclay University -- **Kinetic methods for hyperbolic problems on ustructured meshes**
 * 2020 - 2022: Master's degree in Applied Mathematics, Nantes University
 * 2017 - 2020: Bachelor's degree in Mathematics, Nantes University
 
